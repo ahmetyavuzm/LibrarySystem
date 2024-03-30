@@ -1,0 +1,13 @@
+{
+    "en":{
+        "title": " Library Control Application",
+        "description": " A console application that provides membership control in libraries",
+        "longDescription": " In this application, object-oriented programming is used to simulate the membership system in a library. The user can register to the library, control the access of members to books, see the borrowed books and delivery dates. Thus, the operations required for a library are easily handled. While working on this application, I gained more experience about what object-oriented programming is, how it is used, and when it should be used."
+    },
+    "tr":{
+        "title": "Kütüphane Kontrol Uygulaması",
+        "description": "Kütüphanelerdeki üyelik kontrolünü sağlamaya yarayan bir konsol uygulaması",
+        "longDescription": " Bu uygulamada nesne tabanlı programlama kullanılarak bir kütüphanedeki üyelik sistemi simüle edilmekte. Kullanıcı kütüphaneye üye kaydı yapıp, üyelerin kitaplara erişimini kontrol edebilir, ödünç alınan kitapları ve teslim tarihlerini görebilir. Böylelikle bir kütüphane için gereken işlemler kolayca halledilmiş olur. Bu uygulama üzerinde çalışırken nesne tabanlı programlamanın ne olduğunu, nasıl kullanıldığını, hangi durumlarda kullanılması gerektiği hakkında daha da fazla tecrübe edindim."
+    },
+    "tags":["consoleApp","java","oop"]
+}
